@@ -55,7 +55,7 @@ This is our new Moodle Plugin using Moodle question type template. We extend the
 - The folder "Requirements" includes files data(the trained model, semantic space, Word Embeddings, words-dictionary,stop words, Min-Max dictionary(TFlog Wheights))
 
 - Copy the content of the folder "requierement English" in the link bolow in the "requirements" folder of the plugin:
-
+https://drive.google.com/drive/folders/1KPZCvXvQ6VeK54fhkOpNxkUC3PQlPTXp?usp=sharing
 
 - Introduce (question, student answer, reference answer and difficulty) to the getScore function as in the example in the main function.
 
