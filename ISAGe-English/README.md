@@ -81,5 +81,5 @@ https://drive.google.com/drive/folders/1KPZCvXvQ6VeK54fhkOpNxkUC3PQlPTXp?usp=sha
 - A PHP cURL script is used to connect the plugin to the Flask API which deploys the grader on PythonanyWhere(already done in the plugin). 
  (Please see the "question.php" of the plugin in the section commented: // Call the grader ). 
 ========================
-4. Feedback & Contact (anonymous because under-review) 
+4. Feedback & Contact:
 5. Acknowledgments
